@@ -1,0 +1,6 @@
+Course[[:space:]]5[[:space:]]-[[:space:]]Sequence[[:space:]]Models/Week[[:space:]]2/Emojify/data/* filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+Course[[:space:]]5[[:space:]]-[[:space:]]Sequence[[:space:]]Models/Week[[:space:]]2/Operations_on_word_vectors/data/* filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
